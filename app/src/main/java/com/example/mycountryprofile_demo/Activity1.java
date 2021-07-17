@@ -54,7 +54,7 @@ public class Activity1 extends AppCompatActivity implements View.OnClickListener
             startActivity(intent);
         }
 
-
+//this is country project
 
     }
 
