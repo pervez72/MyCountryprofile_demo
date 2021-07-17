@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyCountryprofile_demo</string>
+    <string name="Bangladesh_Button">Bangladesh</string>
+    <string name="India_Button">India</string>
+    <string name="Pakistan_button">Pakistan</string>
+    <string name="Tittle_text">This is a Tittle</string>
+    <string name="massage_text">Do you want to Exit?</string>
+
+
+    <string name="bangladesh_text">
+
+        Bangladesh referred its maritime boundary claims with Burma and India to \n
+        \'s September 2011 visit to Bangladesh resulted in the signing of a\n
+
+    </string>
+    <string name="india_text">
+
+        India referred its maritime boundary claims with Burma and India to Minister\n
+         September 2011 visit to Bangladesh resulted in the signing of a\n
+
+
+    </string>
+    <string name="pakistan_text">
+
+       Pakistan referred its maritime boundary claims with Burma and India to the Inister\n
+        Singh\'s September 2011 visit to Bangladesh resulted in the signing of a\n.
+
+    </string>
+
+
+
+    
+</resources>
